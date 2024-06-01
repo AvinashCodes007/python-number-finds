@@ -1,1 +1,1 @@
-# find primenumber ,reversenumber and find greatest among three numbers.
+# solution of find prime number ,reverse number and  greatest among three numbers.
